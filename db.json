@@ -1,67 +1,131 @@
 {
     "parts":[
         {
-            "id":1,
-            "name":"Front Bumper",
-            "place":"front",
-            "material":"chrome",
+            "id": 1,
+            "name": "Front Bumper",
+            "place": "front",
+            "material": "chrome",
             "comparison price": 1499
         },
         {
-            "id":2,
-            "name":"Grill Guard",
-            "place":"front",
-            "material":"chrome",
+            "id": 2,
+            "name": "Grill Guard",
+            "place": "front",
+            "material": "chrome",
             "comparison price": 800
         },
         {
-            "id":3,
-            "name":"Rubber Bullet Concave",
-            "place":"front",
-            "material":"rubber",
+            "id": 3,
+            "name": "Rubber Bullet Concave",
+            "place": "front",
+            "material": "rubber",
             "comparison price": 50
         },
         {
-            "id":4,
-            "name":"Rubber Bullet Convex",
-            "place":"front",
-            "material":"rubber",
+            "id": 4,
+            "name": "Rubber Bullet Convex",
+            "place": "front",
+            "material": "rubber",
             "comparison price": 50
         },
         {
-            "id":5,
-            "name":"Headlight Bezel",
-            "place":"front",
-            "material":"chrome",
+            "id": 5,
+            "name": "Headlight Bezel",
+            "place": "front",
+            "material": "chrome",
             "comparison price": 140
         },
         {
-            "id":6,
-            "name":"Grill",
-            "place":"front",
-            "material":"aluminum",
+            "id": 6,
+            "name": "Grill",
+            "place": "front",
+            "material": "aluminum",
             "comparison price": 350
         },
         {
-            "id":7,
-            "name":"Grill Upper",
-            "place":"front",
-            "material":"aluminum",
+            "id": 7,
+            "name": "Grill Upper",
+            "place": "front",
+            "material": "aluminum",
             "comparison price": 390
         },
         {
-            "id":8,
-            "name":"Grill Emblem",
-            "place":"front",
-            "material":"plastic",
+            "id": 8,
+            "name": "Grill Emblem",
+            "place": "front",
+            "material": "plastic",
             "comparison price": 139
         },
         {
-            "id":9,
-            "name":"Headlight Bucket",
-            "place":"front",
-            "material":"steel",
+            "id": 9,
+            "name": "Headlight Bucket",
+            "place": "front",
+            "material": "steel",
             "comparison price": 150
+        },
+        {
+            "id": 10,
+            "name": "Chrome Lettering",
+            "place": "front",
+            "material": "chrome",
+            "comparison price": 15
+        },
+        {
+            "id": 11,
+            "name": "Fender Plane Ornament",
+            "place": "front",
+            "material": "chrome",
+            "comparison price": 160
+        },
+        {
+            "id": 12,
+            "name": "Fender Molding Spear",
+            "place": "side",
+            "material": "chrome",
+            "comparison price": 270
+        },
+        {
+            "id": 13,
+            "name": "Door Molding",
+            "place": "side",
+            "material": "aluminum",
+            "comparison price": 180
+        },
+        {
+            "id": 14,
+            "name":"Rear Quarter Molding",
+            "place":"side",
+            "material":"aluminum",
+            "comparison price": 250
+        },
+        {
+            "id": 15,
+            "name":"Rear Quarter Molding Hockey Sticks",
+            "place":"side",
+            "material":"aluminum",
+            "comparison price": 100
+        },
+        {
+            "id": 16,
+            "name":"Bel Air Scripts",
+            "place":"side",
+            "material":"steel",
+            "comparison price": 100
+        },
+        {
+            "id": 17,
+            "name":"Drip Rail Molding",
+            "place":"side",
+            "material":"steel",
+            "comparison price": 120
+        },
+        {
+            "id": 18,
+            "name":"Mirror",
+            "place":"side",
+            "material":"steel",
+            "comparison price": 50
         }
+        
     ]
 }
