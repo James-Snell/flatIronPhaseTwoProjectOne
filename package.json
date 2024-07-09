@@ -1,0 +1,22 @@
+{
+  "name": "flatironphasetwoprojectone",
+  "version": "1.0.0",
+  "description": "A love story with an antique automobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Snell/flatIronPhaseTwoProjectOne.git"
+  },
+  "keywords": [
+    "61belair.com"
+  ],
+  "author": "James Snell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Snell/flatIronPhaseTwoProjectOne/issues"
+  },
+  "homepage": "https://github.com/James-Snell/flatIronPhaseTwoProjectOne#readme"
+}
