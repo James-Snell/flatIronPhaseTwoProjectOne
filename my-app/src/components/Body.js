@@ -37,7 +37,7 @@ function Body () {
             </p>
 
             
-            
+            <a href="/trim">Go to Trim Info</a>
             {/* const App = () => {
             const [currentPage, setCurrentPage] = useState(1);
 
