@@ -35,6 +35,8 @@ function Trim () {
                     <p>Price: ${selectedTrim["comparison price"]}</p>
                 </div>
             )}
+
+            <a href="/drive">Go to Drive Info</a>
         </div>
     )
 }
